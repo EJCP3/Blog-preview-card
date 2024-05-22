@@ -13,12 +13,12 @@ Los usuarios deberían poder:
 
 ### Screenshot
 
-
+![movil](/src/img/movil.png)
 
 
 ### Links
 
-- URL del sitio activo: 
+- URL del sitio activo: https://ejcp3.github.io/Blog-preview-card/
 
 ## Mi proceso
 
